@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    cursor: pointer;
+}
+a:hover{
+    color: aqua;
+}
+
+table {
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+    height: 100px;
+}
+img {
+    width: 300px;
+    height: 200px;
+    margin: 6px;
+}
+
+.contact a:hover {
+    color: blue;
+}
+.img-about img {
+    align-items: center;
+    height: 200px;
+    width: auto;
+}
+
+.container-table table{
+    width: 200px;
+    height: 130px;
+}
